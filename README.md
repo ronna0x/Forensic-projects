@@ -1,1 +1,1 @@
-Projects I did in my Forensics undergrad at Champlain College
+Forensics projects from my undergrad at Champlain College
